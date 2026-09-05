@@ -1,4 +1,4 @@
-# Hangman Game
+# Hangman Game Task
 import random
 def play_hangman():
     words = ["apple","banana","grape","orange","mango","kiwi"]
