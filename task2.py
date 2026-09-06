@@ -1,4 +1,4 @@
-#Stock Portfolio Tracker
+#Stock Portfolio Tracker Task2
 # 1. Open a text file named "portfolio_report.txt" in write mode.
 # 2. If the file does not exist:
 #       - create a new file.
