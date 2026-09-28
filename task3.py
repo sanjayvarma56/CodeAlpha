@@ -16,7 +16,6 @@
 
 import os
 import shutil
-
 source_folder = "source"
 destination_folder = "destination"
 
